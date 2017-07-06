@@ -25,7 +25,7 @@ SECRET_KEY = '0#1d^j@vbx2h=8yl)^27w%$^@#tb(x-8x#^)nk2##h#jw8oeuz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<anze.vavken>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'avblog.pythonanywhere.com']
 
 
 # Application definition
